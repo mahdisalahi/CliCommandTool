@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "meti-builder", "meti-builder\meti-builder.csproj", "{DF34E3B0-A18B-4B3F-A614-EAC68CE742AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF34E3B0-A18B-4B3F-A614-EAC68CE742AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF34E3B0-A18B-4B3F-A614-EAC68CE742AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF34E3B0-A18B-4B3F-A614-EAC68CE742AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF34E3B0-A18B-4B3F-A614-EAC68CE742AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
